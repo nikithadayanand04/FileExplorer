@@ -1,0 +1,18 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.0.0
+python-multipart>=0.0.6
+cryptography>=41.0.0
+pillow>=10.0.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+aiofiles>=23.0.0
+python-dotenv>=1.0.0
+
+# Optional dependencies (for enhanced features)
+# mediapipe>=0.10.0  # For advanced face detection
+# python-jose[cryptography]>=3.3.0  # For JWT tokens
+# passlib[bcrypt]>=1.7.4  # For password hashing
+# pytesseract>=0.3.10  # For OCR (if needed)
+

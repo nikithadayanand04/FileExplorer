@@ -1,0 +1,29 @@
+Medical Record - Patient Information
+
+Patient ID: PAT-2024-001
+Name: Jane Smith
+Date of Birth: 20-05-1985
+
+Medical History:
+- Diagnosis: Hypertension
+- Prescription: Lisinopril 10mg daily
+- Blood Pressure: 140/90 mmHg
+- Cholesterol Level: 220 mg/dL
+- Allergy: Penicillin
+- Previous Surgery: Appendectomy (2010)
+
+Current Medications:
+1. Lisinopril - Blood pressure management
+2. Atorvastatin - Cholesterol control
+3. Aspirin - Heart health
+
+Treatment Plan:
+- Regular monitoring of blood pressure
+- Follow-up appointment in 3 months
+- Lifestyle modifications recommended
+
+Physician: Dr. Sarah Johnson
+Clinic: City Medical Center
+
+This is a test medical record for CryptoFS++ HIPAA-related content detection.
+
